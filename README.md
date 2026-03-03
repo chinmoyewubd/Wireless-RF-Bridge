@@ -1,7 +1,5 @@
 # Wireless Data Transmission System using RF Modules
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 📌 Overview
 
